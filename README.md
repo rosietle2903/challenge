@@ -3,6 +3,7 @@ Automated tests for: http://automationpractice.com/
 How to run the tests
 
 Install TestCafe by doing `npm install -g testcafe`: https://testcafe.io/documentation/402834/guides/basic-guides/install-testcafe
+
 Navigate to the directory where the tests reside and run `testcafe chrome <TEST-CASE>` (NOTE: browsers can be specified there as Firefox, etc) 
 
 
